@@ -50,5 +50,8 @@ public interface UserMapper {
      */
     public List<Resource> findResourceByRoleId(List<Integer> ids);
 
+    // 测试拉取操作
+    public void testGitPullOperation();
+
 
 }
