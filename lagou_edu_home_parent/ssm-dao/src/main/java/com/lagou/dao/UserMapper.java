@@ -53,5 +53,9 @@ public interface UserMapper {
     // 测试拉取操作
     public void testGitPullOperation();
 
-
+    public void testGitPullConfilct6();
+    public void testGitPullConfilct7();
+    public void testGitPullConfilct8();
+    public void testGitPullConfilct9();
+    public void testGitPullConfilct10();
 }
